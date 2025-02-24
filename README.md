@@ -1,4 +1,4 @@
-## 👋 自己想做的事，走自己喜欢的路
+## 👋 做自己想做的事，走自己喜欢的路
 <img src="cover.webp" />
 
 <img align="right" alt="azusa" src="azusa.webp" width="200" height="auto" />
