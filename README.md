@@ -13,7 +13,8 @@
 ### 🔧 技术栈 | Tech Stack
 
 - 💻 开发平台：![Static Badge](https://img.shields.io/badge/-Windows-333333?style=flat) ![Static Badge](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=%23FCC624)
-- 🌐 编程语言：![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus&logoColor=%2300599C) ![Static Badge](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=%233776AB)
+- 🌐 编程语言：![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus&logoColor=%2300599C) ![Static Badge](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=%233776AB) ![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=%2300ADD8)
+
 - 📚 数据库：![Static Badge](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=%234479A1) ![Static Badge](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=%23FF4438)
 - 📐 辅助工具：![Static Badge](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=%23F05032) ![Static Badge](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=%23000000)
 
